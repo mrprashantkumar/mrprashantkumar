@@ -4,10 +4,9 @@
 
 #### About Me:
 
-- 🔭 I have done Internship at @CodingNinjas as Teaching Assistant for Python.
-- 🔎 I am looking for Software Development Roles...
-- 😊 I am proficient in Data Structures & Algorithms and Problem Solving.
-- ✉️ You can reach out to me at prashantkumar24563@gmail.com , if you have any opportunity.
+- 🔭 I am currently working as Associate Software Engineer @TechMahindra.
+- 🔎 I am interested in Software Development Roles.
+- ✉️ You can reach out to me at prashantkumar24563@gmail.com.
 
 #### My Other Profiles:
 
